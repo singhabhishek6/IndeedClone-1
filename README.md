@@ -1,8 +1,50 @@
-# Indeed Clone
+# [Indeed | Original](https://india.indeed.com/)
+
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
+<table>
+<tr>
+<td>
 Indeed is a website which is a free service to job seekers, where you can upload a resume, create job alert emails, search for jobs, save them and apply to them directly.
+</td>
+</tr>
+</table>
+
+
+## Demo
+Here is a working live demo :  [Click Me](https://indeed-clone.netlify.app/)
+
+
+## Indeed Clone
+
+
+### Auth Page
+![](https://github.com/singhabhishek6/portfolio/blob/master/src/img/Readme/indeed/tata%20(1).png)
+
+### Home Page
+![](https://github.com/singhabhishek6/portfolio/blob/master/src/img/Readme/indeed/tata%20(2).png)
+
+
+### Jobs Page
+
+![](https://github.com/singhabhishek6/portfolio/blob/master/src/img/Readme/indeed/tata%20(3).png)
+
+### User Info Page
+![](https://github.com/singhabhishek6/portfolio/blob/master/src/img/Readme/indeed/tata%20(4).png)
+
+
+
+## [Getting Started]
+
+### Execution..
+Want to run in your local Machine? Great!
+
+To run, follow these steps:
+
+- Clone my repository (`git clone https://github.com/singhabhishek6/TataCLiQ-Clone.git`)
+- Install packages (`npm install`)
+- Run the app (`npm start / yarn start`)
+
 
 ## Features
 
@@ -16,9 +58,9 @@ This is cloned version of Indeed.
 
 
 
-## Tech
+## Tools Used
 
-
+- React Native
 - Material-ui/core
 - Material-ui/icons
 - react-Bootstrap
@@ -30,15 +72,17 @@ This is cloned version of Indeed.
 - React-Router-Dom
 - React-Star-rating
 - react-step-progress-bar
-- styledcomponents
+- styled Components
 
-# Getting Started with our project
+## Creators
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- [@Abhishek-Singh](https://github.com/singhabhishek6)
+- [@Subham-Kumar](https://github.com/Shubham-047)
+- [@Shariq](https://github.com/ansariShariq)
+- [@Tausif](https://github.com/sheikhtausif)
+
+  
 
 
-In the project directory, you can run:
-
-### `npm start`
 
 
